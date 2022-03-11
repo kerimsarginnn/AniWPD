@@ -1,3 +1,3 @@
 # AniWPD
 "Software, intelligence."
-![Video](https://streamable.com/tjvz3d)
+![Video](anip.mp4)
